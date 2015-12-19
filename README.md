@@ -21,7 +21,7 @@ far.
 * [TangoSDfix](https://github.com/chucknology/TangoSDfix) - One-click SD card write enabler for the Project Tango tablet.
 
 ## Point Cloud
-* [Write Point Cloud to file](https://github.com/daryllstrauss/tangohttps://github.com/daryllstrauss/tang) - Derived from Project Tango Examples, writes Point Cloud to file.
+* [Write Point Cloud to file](https://github.com/daryllstrauss/tango) - Derived from Project Tango Examples, writes Point Cloud to file.
 
 ## Games
 * [DMDFinalProject](https://github.com/bastovd/DMDFinalProject) - DMD
