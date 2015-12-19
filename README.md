@@ -8,10 +8,8 @@ far.
 
 ## Examples
 * [tango-examples-unity](https://github.com/googlesamples/tango-examples-unity) - Google's Project Tango examples for Unity.
-* [tango-examples-java](http://github.com/googlesamples/tango-examples-java)
-  - Example projects for Project Tango Java API.
-* [tango-examples-c](https://github.com/googlesamples/tango-examples-c)
-  - JNI example projects for Project Tango C-API.
+* [tango-examples-java](http://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API.
+* [tango-examples-c](https://github.com/googlesamples/tango-examples-c) - JNI example projects for Project Tango C-API.
 
 ## Import / Export
 * [TangoUnityADFbridge](https://github.com/chucknology/TangoUnityADFbridge) - Android library for importing and exporting ADFs on Project Tango from Unity.
