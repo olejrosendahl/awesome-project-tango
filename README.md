@@ -13,6 +13,9 @@ far.
 ## Community
 * [Project Tango Developers](https://plus.google.com/communities/114537896428695886568) - Official Project Tango community.
 
+## Video
+* [Say hello to Project Tango](https://www.youtube.com/watch?v=Qe10ExwzCqk)
+
 ## Examples
 * [tango-examples-unity](https://github.com/googlesamples/tango-examples-unity) - Google's Project Tango examples for Unity.
 * [tango-examples-java](http://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API.
