@@ -6,6 +6,13 @@ ended up with a list of links and decided to get it organized. Not a
 lot of resources available yet, but here is what we've found useful so
 far.
 
+## Official Resources
+* [Official Site](https://www.google.com/atap/project-tango/)
+* [Get Started](https://developers.google.com/project-tango/)
+
+## Community
+* [Project Tango Developers](https://plus.google.com/communities/114537896428695886568) - Official Project Tango community.
+
 ## Examples
 * [tango-examples-unity](https://github.com/googlesamples/tango-examples-unity) - Google's Project Tango examples for Unity.
 * [tango-examples-java](http://github.com/googlesamples/tango-examples-java) - Example projects for Project Tango Java API.
