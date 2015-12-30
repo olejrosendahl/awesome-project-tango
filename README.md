@@ -15,6 +15,8 @@ far.
 
 ## Video
 * [Say hello to Project Tango](https://www.youtube.com/watch?v=Qe10ExwzCqk)
+* [Project Tango: Designing for Natural Motion Experiences](https://www.youtube.com/watch?v=Dv5iSzdmWT8)
+* [Project Tango: Designing for Physical Boundaries](https://www.youtube.com/watch?v=4Az0lBPlDSw)
 
 ## Examples
 * [tango-examples-unity](https://github.com/googlesamples/tango-examples-unity) - Google's Project Tango examples for Unity.
