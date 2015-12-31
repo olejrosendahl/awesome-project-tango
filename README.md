@@ -41,5 +41,8 @@ far.
   generated roller coasters with Motion Tracking from Project Tango
   devices.
 
+## Contributions
+Your contributions and suggestions are heartily welcomed. Simply make a [pull request](https://github.com/olejrosendahl/awesome-project-tango/edit/master/README.md).
+
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
